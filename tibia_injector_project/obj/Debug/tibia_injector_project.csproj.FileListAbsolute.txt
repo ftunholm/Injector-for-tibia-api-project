@@ -1,0 +1,1 @@
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\Debug\tibia_injector_project.exe.config

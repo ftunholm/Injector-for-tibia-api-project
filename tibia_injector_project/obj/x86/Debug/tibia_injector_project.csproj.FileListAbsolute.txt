@@ -1,0 +1,11 @@
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\x86\Debug\tibia_injector_project.exe.config
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\x86\Debug\TibiaAPI.dll
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\x86\Debug\tibia_injector_project.exe
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\x86\Debug\tibia_injector_project.pdb
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.csprojResolveAssemblyReference.cache
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.Form1.resources
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.Properties.Resources.resources
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.csproj.GenerateResource.Cache
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.exe
+c:\users\lanfear\documents\visual studio 2013\Projects\tibia_injector_project\tibia_injector_project\obj\x86\Debug\tibia_injector_project.pdb
+C:\Users\LanfeaR\Documents\Visual Studio 2013\Projects\tibia_injector_project\tibia_injector_project\bin\x86\Debug\TibiaAPI_Project.dll
